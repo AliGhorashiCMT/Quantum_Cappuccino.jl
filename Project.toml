@@ -1,0 +1,4 @@
+name = "Quantum_Cappuccino"
+uuid = "65491993-3015-4abc-a556-b69cae2c0f04"
+authors = ["Ali Ghorashi <aligho@mit.edu>"]
+version = "0.1.0"
